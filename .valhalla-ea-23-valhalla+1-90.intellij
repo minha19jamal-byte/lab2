@@ -1,0 +1,31 @@
+{
+  "vendor": "Oracle",
+  "product": "Project Valhalla Early-Access",
+  "preview": true,
+  "jdk_version_major": 23,
+  "jdk_version": "23-valhalla+1-90",
+  "suggested_sdk_name": "valhalla-ea-23",
+  "shared_index_aliases": [
+    "valhalla-ea-23-valhalla+1-90",
+    "valhalla-ea-23",
+    "23-valhalla+1-90",
+    "23"
+  ],
+  "packages": [
+    {
+      "os": "windows",
+      "arch": "x86_64",
+      "version": "23-valhalla+1-90",
+      "url": "https://download.java.net/java/early_access/valhalla/1/openjdk-23-valhalla+1-90_windows-x64_bin.zip",
+      "package_type": "zip",
+      "unpack_prefix_filter": "jdk-23",
+      "package_root_prefix": "jdk-23",
+      "package_to_java_home_prefix": "",
+      "archive_file_name": "openjdk-23-valhalla+1-90_windows-x64_bin.zip",
+      "install_folder_name": "valhalla-ea-23-valhalla+1-90",
+      "archive_size": 203103151,
+      "unpacked_size": 338939973,
+      "sha256": "36a1ed5fa243dd3701dd0256b955559983f98602224ea585b11b6866e478b0b3"
+    }
+  ]
+}
